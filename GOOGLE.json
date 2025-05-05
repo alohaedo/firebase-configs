@@ -1,0 +1,10 @@
+{
+  "GOOGLE": {
+    "GOOGLE_APP_ID": "1:661833034416:ios:152b4386df72166ef42975",
+    "GCM_SENDER_ID": "661833034416",
+    "API_KEY": "AIzaSyAgqyFiIu1Zrfz7bgDHltJj8wi7WQ_Dr8c",
+    "PROJECT_ID": "rissfinal",
+    "DATABASE_URL": "https://rissfinal-default-rtdb.firebaseio.com"
+  }
+}
+
