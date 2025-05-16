@@ -5,6 +5,13 @@
     "API_KEY": "AIzaSyAgqyFiIu1Zrfz7bgDHltJj8wi7WQ_Dr8c",
     "PROJECT_ID": "rissfinal",
     "DATABASE_URL": "https://rissfinal-default-rtdb.firebaseio.com"
+  },
+  "Elementary": {
+    "GOOGLE_APP_ID": "1:926543173077:ios:30c949a16c653c0425d95c",
+    "GCM_SENDER_ID": "926543173077",
+    "API_KEY": "AIzaSyCV9Xa5HIBidlO-U6NqLa6578fiI_JVYAo",
+    "PROJECT_ID": "riss-elementary",
+    "DATABASE_URL": "https://riss-elementary-default-rtdb.firebaseio.com/"
   }
 }
 
